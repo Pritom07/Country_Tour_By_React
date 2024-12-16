@@ -1,0 +1,53 @@
+.countryStyle {
+    border: 2px solid green;
+    border-radius: 5px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    line-height: 0.5;
+    padding-bottom: 1.5%;
+}
+
+.goingbutton {
+    text-align: center;
+    padding: 2%;
+    border-radius: 8px;
+    border: 2px solid red;
+    background-color: red;
+}
+
+.visitedbutton {
+    text-align: center;
+    padding: 2%;
+    border-radius: 8px;
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+}
+
+.size {
+    font-weight: 600;
+}
+
+.buttondiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+.setvisited {
+    border: 2px solid red;
+    border-radius: 7px;
+    background-color: red;
+    white-space: nowrap;
+    margin-left: 3%;
+}
+
+.visited {
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+    white-space: nowrap;
+    border-radius: 7px;
+    margin-left: 3%;
+}

@@ -1,0 +1,13 @@
+.countriesStyle {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    background-color: #eaece5;
+    padding: 2.6%;
+    border-radius: 10px;
+}
+
+.flag {
+    width: 100px;
+    height: 80px;
+    margin: 0.50%;
+}
